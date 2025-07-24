@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: tahoma;
+    height: 100vh;
+    background: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card {
+    padding: 30px 0 15px 0;
+    margin-bottom: 30px;
+    text-align: center; 
+    width: 20rem;
+    border-radius:15px;
+    background-color: lightgrey;
+    box-shadow: none;
+    border: 2px solid #1f1b1b;
+  }
+
+  .card:hover{
+    background-color: #f5f5f5;
+    box-shadow: 20px 20px 42px #1f1b1b, -20px -20px 42px #d0d0d0;
+    border: none;
+    border-radius: 0px;
+    transition: 0.7s;
+  }
+
+  .h3{
+    text-decoration: underline;
+    color: darkred;
+  }
+
+  .div{
+    padding-top: 5px;
+    line-height: 20pt;
+  }

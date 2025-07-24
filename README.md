@@ -13,3 +13,8 @@ A multi-page personal profile card website built using only HTML and CSS. This p
 
 - HTML5
 - CSS3
+
+## 📬 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/abhijeetwankhade424/)
+- [GitHub](https://github.com/Abhijeet-Wankhade)

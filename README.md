@@ -1,6 +1,6 @@
 # Profile Card
 
-A multi-page personal profile card website built using only HTML and CSS. This project showcases my education, experience, skills, languages, and interests.
+A multi-page personal profile card built using only HTML and CSS. This project showcases my education, experience, skills, languages, and interests.
 
 ---
 
